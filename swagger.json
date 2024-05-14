@@ -10,7 +10,7 @@
   },
   "servers": [
     {
-      "url": "https://enhanced-auth-api.onrender.com"
+      "url": "https://enhanced-auth-api.onrender.com/api/v1/enhanced-authentication"
     }
   ],
   "tags": [
